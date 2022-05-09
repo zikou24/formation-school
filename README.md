@@ -1,4 +1,4 @@
-# formation-school
+# formation-school with spring boot
 
 ## PROJECT Note:
 
