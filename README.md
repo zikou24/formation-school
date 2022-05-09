@@ -1,6 +1,6 @@
 # formation-school with spring boot
 
-## PROJECT Note:
+## formatin - school using spring boot :
 
    the project is a formation school in spring boot 
    ### the fornctionalite of the project :
